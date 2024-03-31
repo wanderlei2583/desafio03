@@ -4,6 +4,7 @@ go 1.22.1
 
 require (
 	github.com/spf13/viper v1.18.2
+	github.com/streadway/amqp v1.1.0
 	github.com/stretchr/testify v1.9.0
 )
 
